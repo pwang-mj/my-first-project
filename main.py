@@ -1,4 +1,4 @@
-from services import run_service
+from services.core import run_service
 
 
 def main():
